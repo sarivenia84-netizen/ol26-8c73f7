@@ -1,6 +1,10 @@
+"""Synchronized Apologizing entry generator for make.fun.
+
+Writes the entry line to /output/entry.txt using MAKEFUN_OUTPUT_DIR.
+"""
+
 import os
 
-# Output directory comes from MAKEFUN_OUTPUT_DIR env var, default /output
 output_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 os.makedirs(output_dir, exist_ok=True)
 
