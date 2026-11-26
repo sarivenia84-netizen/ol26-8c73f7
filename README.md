@@ -1,8 +1,11 @@
 # Synchronized Apologizing
 
-[https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da)
+![make.fun reward](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/sarivenia84-netizen/ol26-8c73f7/reward.svg)
+![make.fun rank](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/sarivenia84-netizen/ol26-8c73f7/rank.svg)
 
-One funny single-line sport the Olympics turned down: two athletes perform 'no, you first' until one runs out of patience. No one has ever won.
+Bounty page: https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da
+
+Synchronized Apologizing: two athletes perform a flawless routine of 'no, you first' until one runs out of patience. No one has ever won.
 
 ## Run it
 
